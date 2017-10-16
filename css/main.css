@@ -1,12 +1,25 @@
-body{
-    background:#999;
-     font-family: arial;
+  <style type="text/css">
+        h3{
+            margin: 0;
         }
-a {
-    color: aqua;
-  }
-h1{
+        body {
+            background: grey;
+            font-family: arial;
+        }
+        a{
+            color: aqua;
+         }
+        h1{
             background: #666;
             color: white;
-            padding: 5px;
+            padding: 10px;
         }
+        ul{ 
+        margin: 0;
+        }
+        ul li {
+            color: green;
+            display: inline;
+            list-style-type: none;
+        }
+        </style>
